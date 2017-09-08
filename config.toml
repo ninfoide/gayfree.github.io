@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Gay Free"
-baseurl = "https://gayfree.com/"
+baseurl = "https://gayfree.net/"
 theme = "BluestNight"
 paginate = 10             # Number of posts to show before paginating
 enableRobotsTXT = true    # Suggested, enable theme robots.txt file
