@@ -70,7 +70,12 @@ googleAnalytics = "UA-105754943-2" #Google Analytics
 
 [menu]
   [[menu.main]]
-    name = "Hot"
+    name = "Videos"
     weight = 1
-    identifier = "hot"
-    url = "/hot/"
+    identifier = "videos"
+    url = "/videos/"
+  [[menu.main]]
+    name = "Chat"
+    weight = 2
+    identifier = "chat"
+    url = "/chat/"
